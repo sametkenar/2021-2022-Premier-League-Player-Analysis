@@ -79,19 +79,3 @@ The analysis applies several statistical and data visualization methods:
 - Correlation analysis
 
 ---
-
-## Repository Structure
-
-```text
-.
-├── README.md
-├── Football_Player_Stats.csv
-├── 2021_2022_Premier_League_Player_Analysis.pdf
-├── Descriptive_of_Categoricals.R
-├── Hypothesis_Testings_1_2.R
-├── Hypothesis_Testings_3_4.R
-├── Anova_1.R
-├── Anova_2.R
-├── SLR_and_MLR.R
-├── Plots/
-└── .Rhistory
